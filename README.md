@@ -1,0 +1,2 @@
+# Digiretail
+Internship assignment
